@@ -51,5 +51,5 @@ Summarized payout totals by department and region
 # AUTHOR
 ### Analyst Kehinde Dorcas Olusola- Student in Data Analyst DSA
 ### Email: inimoyan@gmail.com
-### Github: [https://kehindedorcas]
+### Github: [https://github.com/kehindedorcas]
 
