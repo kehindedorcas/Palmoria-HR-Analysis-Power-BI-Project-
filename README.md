@@ -37,4 +37,3 @@ Summarized payout totals by department and region
 - Palmoria Group Bonus Rules.xlsx: Bonus logic table
 - Palmoria_HR_Analysis.pbix: Power BI file with complete visuals
 - Screenshots of dashboard
-
