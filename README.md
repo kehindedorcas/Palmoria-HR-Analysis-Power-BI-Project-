@@ -37,3 +37,19 @@ Summarized payout totals by department and region
 - Palmoria Group Bonus Rules.xlsx: Bonus logic table
 - Palmoria_HR_Analysis.pbix: Power BI file with complete visuals
 - Screenshots of dashboard
+
+<img width="716" height="405" alt="Power BI_image Screenshot" src="https://github.com/user-attachments/assets/605052e0-d781-4eb6-8a93-fcbfe233d60a" />
+
+
+
+### Insights Summary
+- Gender imbalance was observed in Sales and Engineering departments.
+- A gender pay gap exists in Lagos and Abuja regions.
+- Several employees earn below $90,000, breaching compliance.
+- Bonuses vary significantly by department and performance.
+
+# AUTHOR
+### Analyst Kehinde Dorcas Olusola- Student in Data Analyst DSA
+### Email: inimoyan@gmail.com
+### Github: [https://kehindedorcas]
+
